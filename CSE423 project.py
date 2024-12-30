@@ -535,7 +535,7 @@ def main():
     glutInit()
     glutInitDisplayMode(GLUT_DOUBLE | GLUT_RGB)
     glutInitWindowSize(W_Width, W_Height)
-    glutCreateWindow(b"Head Soccer with Weather Effect")
+    glutCreateWindow(b"HeadShot Soccer")
 
     init()
 
